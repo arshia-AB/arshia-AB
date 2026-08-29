@@ -24,4 +24,4 @@
   </a>
 </div>
 
-###<img width="1446" height="901" alt="image" src="https://github.com/user-attachments/assets/52dadab3-edd9-469c-ab49-b9eaa89fae55" />
+###
