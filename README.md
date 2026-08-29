@@ -1,20 +1,16 @@
 <div align="center">
-  <!-- آمار روزهای متوالی -->
   <img src="https://streak-stats.demolab.com?user=arshia-AB&theme=tokyonight&hide_border=false" height="150" alt="streak graph" />
   
   <br><br>
 
-  <!-- جزئیات پروفایل -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshia-AB&theme=tokyonight" height="200" alt="profile details" />
 
   <br><br><br>
 
-  <!-- بخش اختصاصی گیف -->
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhucWIzeGU5bzZyaHZoOHB4ZTE4NzFzN2Z3dHo3cTU4bXdwMW9mYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" alt="coding gif" />
 
   <br><br><br>
 
-  <!-- تخصص‌ها -->
   <h3>👨‍💻 Tech Stack</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
@@ -28,7 +24,6 @@
 
   <br><br><br>
 
-  <!-- شبکه‌های اجتماعی -->
   <h3>📫 Connect with me</h3>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
