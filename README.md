@@ -1,7 +1,5 @@
 <div align="center">
   <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhucWIzeGU5bzZyaHZoOHB4ZTE4NzFzN2Z3dHo3cTU4bXdwMW9mYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" />
-  <h1 align="left">Hi 👋! I'm Arshia Arab Behjat</h1>
-  <h3 align="left">University student specializing in Low-Level Systems, Hardware Design, and Machine Learning.</h3>
 </div>
 
 <br><br>
