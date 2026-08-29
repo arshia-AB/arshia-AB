@@ -7,10 +7,6 @@
 
   <br><br><br>
 
-  <img src="https://raw.githubusercontent.com/arshia-AB/arshia-AB/output/snake.svg" alt="Snake animation" />
-
-  <br><br><br>
-
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhucWIzeGU5bzZyaHZoOHB4ZTE4NzFzN2Z3dHo3cTU4bXdwMW9mYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" alt="coding gif" />
 
   <br><br><br>
@@ -38,4 +34,9 @@
   <a href="mailto:arbehjat5@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
+
+  <!-- 
+  <br><br><br>
+  <img src="https://raw.githubusercontent.com/arshia-AB/arshia-AB/output/snake.svg" alt="Snake animation" /> 
+  -->
 </div>
